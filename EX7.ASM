@@ -1,5 +1,7 @@
 ; In the ASM program, the integer n will be accepted then value of n! will be printed out
-; n! = 1* 2 * 3* …. * ninclude \masm32\include\masm32rt.inc
+; n! = 1* 2 * 3* â€¦. * n
+
+include \masm32\include\masm32rt.inc
 
 factorial PROTO :dword
 
